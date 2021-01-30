@@ -29,27 +29,27 @@ const projectsData = [
       "Buscador de recetas hecho con React"
   },
   {
-    webRef: "http://beta.adalab.es/project-promo-h-module-3-team-1-afternoon/#/",
+    webRef: "https://luciaherrrador.github.io/project-promo-h-module-3-team-1-afternoon/",
     photoSrc: web1,
     description: "Aplicación de generación de tarjetas ecológicas con React"
   },
   {
-    webRef: "http://beta.adalab.es/modulo-3-evaluacion-final-luciaherrrador/#/",
+    webRef: "https://luciaherrrador.github.io/modulo-3-evaluacion-final-luciaherrrador/",
     photoSrc: web2,
     description: "Buscador de personajes de Rick & Morty con React y SASS"
   },
   {
-    webRef: "http://beta.adalab.es/modulo-2-evaluacion-final-luciaherrrador/",
+    webRef: "https://luciaherrrador.github.io/modulo-2-evaluacion-final-luciaherrrador/",
     photoSrc: web3,
     description: "Buscador de series con JS Vainilla y SASS"
   },
   {
-    webRef: "http://beta.adalab.es/project-promo-h-module-2-team-3-afternoon-jungle-wanderers/",
+    webRef: "https://luciaherrrador.github.io/project-promo-h-module-2-team-3-afternoon-jungle-wanderers/",
     photoSrc: web4,
     description: "Aplicación de generación de tarjetas con JS Vainilla y SASS"
   },
   {
-    webRef: "http://beta.adalab.es/contact-us-skylabers/",
+    webRef: "https://luciaherrrador.github.io/contact-us-skylabers/",
     photoSrc: web5,
     description:
       "Maquetación de web corporativa con HTML y SASS"
