@@ -8,8 +8,22 @@ import web4 from "../images/web4.png";
 import web5 from "../images/web5.png";
 import web6 from "../images/web6.png";
 import web7 from "../images/web7.png";
+import web9 from "../images/web9.png";
+import web10 from "../images/web10.png";
 
 const projectsData = [
+  {
+    webRef: "https://adoptaboadilla.es/",
+    photoSrc: web10,
+    description:
+      "Web realizada para el Ayuntamiento de Boadilla en WordPress"
+  },
+  {
+    webRef: "https://luciaherrrador.github.io/elotroangulo/",
+    photoSrc: web9,
+    description:
+      "Web dedicada a la presentación de información relevante sobre carreras de caballos"
+  },
   {
     webRef: "https://luciaherrrador.github.io/my-coronavirus-map/",
     photoSrc: web6,
@@ -54,6 +68,7 @@ const projectsData = [
     description:
       "Maquetación de web corporativa con HTML y SASS"
   }
+  
 ];
 
 class Projects extends Component {

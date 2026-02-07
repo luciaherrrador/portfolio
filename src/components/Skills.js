@@ -6,11 +6,11 @@ const technicalSkills = {
   icon: "fas fa-laptop-code",
   id: "skillsBox1",
   skills: [
-    "HTML5",
-    "CSS3, Flexbox, CSS Grid",
+    "HTML5, CSS3, Flexbox, CSS Grid",
     "SASS, Bootstrap",
     "JavaScript ES6",
-    "Git, React"
+    "Git, React",
+    "Figma"
   ]
 };
 
