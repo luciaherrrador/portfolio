@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60c0a5bbfb4d310f319010c32142b44b",
+    "revision": "105da2952ce92dbd0da9848ab5fef7a6",
     "url": "./index.html"
   },
   {
-    "revision": "a780bb65cef208800a9d",
-    "url": "./static/css/main.11f479c8.chunk.css"
+    "revision": "f464ea87cae44bc62a7b",
+    "url": "./static/css/main.4f7a8c56.chunk.css"
   },
   {
-    "revision": "ccb7eeb85695f6dc3df8",
-    "url": "./static/js/2.013e172d.chunk.js"
+    "revision": "49c8620faef1d5fe42b8",
+    "url": "./static/js/2.717c8fbe.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "./static/js/2.013e172d.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.717c8fbe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a780bb65cef208800a9d",
-    "url": "./static/js/main.af0d0ce5.chunk.js"
+    "revision": "f464ea87cae44bc62a7b",
+    "url": "./static/js/main.6ffdf058.chunk.js"
   },
   {
     "revision": "24c2a3a2774b1eb32f43",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/burbujas.15022db5.jpg"
   },
   {
-    "revision": "f1df76866abf10e22ea018e407ef54e0",
-    "url": "./static/media/ico-menu.f1df7686.svg"
+    "revision": "e0cbfd701720128fb516206f2216bec4",
+    "url": "./static/media/ico-menu.e0cbfd70.svg"
   },
   {
     "revision": "3954f253f142a3d7ee22a4193fe6852a",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2d23e1915441bb9380c752bcda9f30e7",
     "url": "./static/media/web1.2d23e191.png"
+  },
+  {
+    "revision": "f95ee011151c597be57f0b35abeaf4fe",
+    "url": "./static/media/web10.f95ee011.png"
   },
   {
     "revision": "b448b67276c3675bf8453ec96866a889",
@@ -66,5 +70,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e995c870b568c57bc59dbccf1b1962b9",
     "url": "./static/media/web7.e995c870.png"
+  },
+  {
+    "revision": "6de60bf6022d8e222a7dfacbb49f8ff5",
+    "url": "./static/media/web9.6de60bf6.png"
   }
 ]);
