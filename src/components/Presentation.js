@@ -8,7 +8,7 @@ class Presentation extends Component {
                 <div className='anchor' id="presentation" />
                 <div className="presentationText">
                     <p className='paragraphTitle'>Quién soy.</p>
-                    <p className="fontText">Profesional con con sólida base en desarrollo front-end y diseño UX/UI. Disfruto trabajando de manera organizada, con atención al detalle, aportando soluciones creativas que generen impacto.
+                    <p className="fontText">Profesional con sólida base en desarrollo front-end y diseño UX/UI. Disfruto trabajando de manera organizada, con atención al detalle, aportando soluciones creativas que generen impacto.
                     </p>
                     <p className="fontText">
                     Valoro el trabajo en equipo, la comunicación efectiva y la responsabilidad profesional, y creo en el aprendizaje continuo y en mantener una mentalidad abierta, crítica y orientada a la mejora constante.
