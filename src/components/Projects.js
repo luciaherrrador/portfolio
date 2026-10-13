@@ -10,8 +10,22 @@ import web6 from "../images/web6.png";
 import web7 from "../images/web7.png";
 import web9 from "../images/web9.png";
 import web10 from "../images/web10.png";
+import web11 from "../images/web11.png";
+import web12 from "../images/web12.png";
 
 const projectsData = [
+  {
+    webRef: "https://canva.link/wxmnw6ohx254ynw",
+    photoSrc: web12,
+    description:
+      "Estudio de caso producto El Otro Ángulo"
+  },
+  {
+    webRef: "https://canva.link/38d4wwt7g7v8tm9",
+    photoSrc: web11,
+    description:
+      "Estudio de caso producto Gameandgis"
+  },
   {
     webRef: "https://adoptaboadilla.es/",
     photoSrc: web10,
